@@ -9,3 +9,12 @@ function calculadora(num1,num2,up){
             return multi(num1,num2);
     }
 }
+
+
+
+function mutltiplicar() {
+    let num1 = 5;
+    let num2 = 10;
+    mult = num1*num2;
+    return (mult);
+};
