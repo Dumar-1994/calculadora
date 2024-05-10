@@ -18,3 +18,12 @@ function mutltiplicar() {
     mult = num1*num2;
     return (mult);
 };
+
+
+
+function restar() {
+    let numero1 = 20;
+    let numero2 = 10
+    let restar = numero1-numero2;
+    return(restar);
+}
